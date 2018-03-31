@@ -68,6 +68,11 @@ List of podcasts which are helpful for software engineers/programmers.
 
 - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
+- [NLP Highlights](https://soundcloud.com/nlp-highlights)
+  - <b>Description</b>: Discussion on recent work related to natural language processing. Academic topics, strong focus on deep learning.
+  - <b>Frequency</b>: About once a week 
+  
+
 - [O'Reilly Data Show](https://www.oreilly.com/topics/oreilly-data-show-podcast)
 
 - [Super DataScience](https://www.superdatascience.com/podcast/)
